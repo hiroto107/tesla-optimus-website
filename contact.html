@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact the Optimus Team | Tesla Optimus</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="contact.css">
+    <link rel="icon" type="image/png" href="images/favicon.png">
+</head>
+<body>
+    <header>
+        <nav id="main-nav">
+            <div class="logo">
+                <a href="index.html">
+                    <img src="images/tesla_logo.png" alt="Tesla Logo">
+                    <span class="tesla-brand">TESLA</span>
+                </a>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="specs.html">Specs</a></li>
+                <li><a href="design.html">Design</a></li>
+                <li><a href="technology.html">Technology</a></li>
+                <li><a href="comparisons.html">Comparisons</a></li>
+                <li><a href="timeline.html">Timeline</a></li>
+                <li><a href="contact.html" class="active">Contact</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <section class="page-banner">
+            <div class="banner-content">
+                <h1>Contact the Optimus Team</h1>
+            </div>
+        </section>
+
+        <section class="contact-section fade-in-section">
+            <div class="container">
+                <div class="contact-wrapper">
+                    <div class="contact-info">
+                        <h2>Get in Touch</h2>
+                        <p>Interested in learning more about Tesla Optimus? Have questions about partnerships, media inquiries, or just want to know more? Fill out the form and our team will get back to you as soon as possible.</p>
+                        
+                        <div class="contact-methods">
+                            <div class="contact-method">
+                                <div class="method-icon">
+                                    <img src="images/location-icon.svg" alt="Location Icon">
+                                </div>
+                                <div class="method-details">
+                                    <h3>Visit Us</h3>
+                                    <p>Tesla Headquarters<br>3500 Deer Creek Road<br>Palo Alto, CA 94304</p>
+                                </div>
+                            </div>
+                            <div class="contact-method">
+                                <div class="method-icon">
+                                    <img src="images/email-icon.svg" alt="Email Icon">
+                                </div>
+                                <div class="method-details">
+                                    <h3>Email Us</h3>
+                                    <p>optimus@tesla.com</p>
+                                </div>
+                            </div>
+                            <div class="contact-method">
+                                <div class="method-icon">
+                                    <img src="images/phone-icon.svg" alt="Phone Icon">
+                                </div>
+                                <div class="method-details">
+                                    <h3>Call Us</h3>
+                                    <p>+1 (888) 518-3752</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-form-container">
+                        <form id="contact-form" class="contact-form">
+                            <div class="form-group">
+                                <label for="name">Name</label>
+                                <input type="text" id="name" name="name" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Email</label>
+                                <input type="email" id="email" name="email" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="subject">Subject</label>
+                                <select id="subject" name="subject">
+                                    <option value="general">General Inquiry</option>
+                                    <option value="partnership">Partnership Opportunity</option>
+                                    <option value="media">Media Request</option>
+                                    <option value="support">Technical Support</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="message">Message</label>
+                                <textarea id="message" name="message" rows="5" required></textarea>
+                            </div>
+                            <button type="submit" class="submit-button">Send</button>
+                        </form>
+                        <div id="form-success" class="form-success">
+                            <div class="success-icon">
+                                <img src="images/check-icon.svg" alt="Success Icon">
+                            </div>
+                            <h3>Message Sent!</h3>
+                            <p>Thank you for contacting us. We'll get back to you shortly.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+          
+                <div class="footer-links">
+                    <ul>
+                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="#">Terms of Use</a></li>
+                        <li><a href="#">Careers</a></li>
+                        <li><a href="#">Investors</a></li>
+                    </ul>
+                </div>
+                <div class="social-links">
+                    <a href="https://twitter.com/tesla" target="_blank" aria-label="Twitter">
+                        <img src="images/twitter-icon.svg" alt="Twitter">
+                    </a>
+                    <a href="https://instagram.com/teslamotors" target="_blank" aria-label="Instagram">
+                        <img src="images/instagram-icon.svg" alt="Instagram">
+                    </a>
+                    <a href="https://youtube.com/tesla" target="_blank" aria-label="YouTube">
+                        <img src="images/youtube-icon.svg" alt="YouTube">
+                    </a>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>© 2025 Tesla, Inc. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="main.js"></script>
+    <script src="animations.js"></script>
+    <script src="contact.js"></script>
+</body>
+</html>

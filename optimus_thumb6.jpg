@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KVGZ7X9J44"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KVGZ7X9J44');
+</script>
+<meta charset="UTF-8" >
+<meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0, user-scalable=yes" />
+<link rel="pingback" href="https://www.teslarati.com/xmlrpc.php" />
+<meta property="og:description" content="Tesla news, rumors and reviews. SpaceX, Elon Musk, batteries, energy, premium EV market." />
+<meta name='robots' content='noindex, follow' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v24.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page Not Found - TESLARATI</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page Not Found - TESLARATI" />
+	<meta property="og:site_name" content="TESLARATI" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.teslarati.com/#website","url":"https://www.teslarati.com/","name":"TESLARATI","description":"Tesla news, rumors and reviews. SpaceX, Elon Musk, batteries, energy, premium EV market.","publisher":{"@id":"https://www.teslarati.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.teslarati.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.teslarati.com/#organization","name":"TESLARATI","url":"https://www.teslarati.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.teslarati.com/#/schema/logo/image/","url":"https://www.teslarati.com/wp-content/uploads/2024/11/teslarati-leaf-logo-1.jpg","contentUrl":"https://www.teslarati.com/wp-content/uploads/2024/11/teslarati-leaf-logo-1.jpg","width":512,"height":512,"caption":"TESLARATI"},"image":{"@id":"https://www.teslarati.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/Teslarati","https://x.com/teslarati","https://instagram.com/teslarati/","https://www.pinterest.com/teslarati/","https://www.youtube.com/channel/UCgY_B6vi2610bBkXFwCxcTg","https://www.tiktok.com/@teslarati","https://www.linkedin.com/company/teslaratimedia"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="TESLARATI &raquo; Feed" href="https://www.teslarati.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TESLARATI &raquo; Comments Feed" href="https://www.teslarati.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.teslarati.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.teslarati.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='ql-jquery-ui-css' href='//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css?ver=6.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mvp-custom-style-css' href='https://www.teslarati.com/wp-content/themes/zox-news/style.css?ver=6.7.2' type='text/css' media='all' />
+<style id='mvp-custom-style-inline-css' type='text/css'>
+
+
+#mvp-wallpaper {
+	background: url() no-repeat 50% 0;
+	}
+
+#mvp-foot-copy a {
+	color: #d2eeef;
+	}
+
+#mvp-content-main p a,
+#mvp-content-main ul a,
+#mvp-content-main ol a,
+.mvp-post-add-main p a,
+.mvp-post-add-main ul a,
+.mvp-post-add-main ol a {
+	box-shadow: inset 0 -4px 0 #d2eeef;
+	}
+
+#mvp-content-main p a:hover,
+#mvp-content-main ul a:hover,
+#mvp-content-main ol a:hover,
+.mvp-post-add-main p a:hover,
+.mvp-post-add-main ul a:hover,
+.mvp-post-add-main ol a:hover {
+	background: #d2eeef;
+	}
+
+a,
+a:visited,
+.post-info-name a,
+.woocommerce .woocommerce-breadcrumb a {
+	color: #ff005b;
+	}
+
+#mvp-side-wrap a:hover {
+	color: #ff005b;
+	}
+
+.mvp-fly-top:hover,
+.mvp-vid-box-wrap,
+ul.mvp-soc-mob-list li.mvp-soc-mob-com {
+	background: #969696;
+	}
+
+nav.mvp-fly-nav-menu ul li.menu-item-has-children:after,
+.mvp-feat1-left-wrap span.mvp-cd-cat,
+.mvp-widget-feat1-top-story span.mvp-cd-cat,
+.mvp-widget-feat2-left-cont span.mvp-cd-cat,
+.mvp-widget-dark-feat span.mvp-cd-cat,
+.mvp-widget-dark-sub span.mvp-cd-cat,
+.mvp-vid-wide-text span.mvp-cd-cat,
+.mvp-feat2-top-text span.mvp-cd-cat,
+.mvp-feat3-main-story span.mvp-cd-cat,
+.mvp-feat3-sub-text span.mvp-cd-cat,
+.mvp-feat4-main-text span.mvp-cd-cat,
+.woocommerce-message:before,
+.woocommerce-info:before,
+.woocommerce-message:before {
+	color: #969696;
+	}
+
+#searchform input,
+.mvp-authors-name {
+	border-bottom: 1px solid #969696;
+	}
+
+.mvp-fly-top:hover {
+	border-top: 1px solid #969696;
+	border-left: 1px solid #969696;
+	border-bottom: 1px solid #969696;
+	}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover {
+	background-color: #969696;
+	}
+
+.woocommerce-error,
+.woocommerce-info,
+.woocommerce-message {
+	border-top-color: #969696;
+	}
+
+ul.mvp-feat1-list-buts li.active span.mvp-feat1-list-but,
+span.mvp-widget-home-title,
+span.mvp-post-cat,
+span.mvp-feat1-pop-head {
+	background: #a9d300;
+	}
+
+.woocommerce span.onsale {
+	background-color: #a9d300;
+	}
+
+.mvp-widget-feat2-side-more-but,
+.woocommerce .star-rating span:before,
+span.mvp-prev-next-label,
+.mvp-cat-date-wrap .sticky {
+	color: #a9d300 !important;
+	}
+
+#mvp-main-nav-top,
+#mvp-fly-wrap,
+.mvp-soc-mob-right,
+#mvp-main-nav-small-cont {
+	background: #363636;
+	}
+
+#mvp-main-nav-small .mvp-fly-but-wrap span,
+#mvp-main-nav-small .mvp-search-but-wrap span,
+.mvp-nav-top-left .mvp-fly-but-wrap span,
+#mvp-fly-wrap .mvp-fly-but-wrap span {
+	background: #ffffff;
+	}
+
+.mvp-nav-top-right .mvp-nav-search-but,
+span.mvp-fly-soc-head,
+.mvp-soc-mob-right i,
+#mvp-main-nav-small span.mvp-nav-search-but,
+#mvp-main-nav-small .mvp-nav-menu ul li a  {
+	color: #ffffff;
+	}
+
+#mvp-main-nav-small .mvp-nav-menu ul li.menu-item-has-children a:after {
+	border-color: #ffffff transparent transparent transparent;
+	}
+
+#mvp-nav-top-wrap span.mvp-nav-search-but:hover,
+#mvp-main-nav-small span.mvp-nav-search-but:hover {
+	color: #ffffff;
+	}
+
+#mvp-nav-top-wrap .mvp-fly-but-wrap:hover span,
+#mvp-main-nav-small .mvp-fly-but-wrap:hover span,
+span.mvp-woo-cart-num:hover {
+	background: #ffffff;
+	}
+
+#mvp-main-nav-bot-cont {
+	background: #ffffff;
+	}
+
+#mvp-nav-bot-wrap .mvp-fly-but-wrap span,
+#mvp-nav-bot-wrap .mvp-search-but-wrap span {
+	background: #000000;
+	}
+
+#mvp-nav-bot-wrap span.mvp-nav-search-but,
+#mvp-nav-bot-wrap .mvp-nav-menu ul li a {
+	color: #000000;
+	}
+
+#mvp-nav-bot-wrap .mvp-nav-menu ul li.menu-item-has-children a:after {
+	border-color: #000000 transparent transparent transparent;
+	}
+
+.mvp-nav-menu ul li:hover a {
+	border-bottom: 5px solid #a9d300;
+	}
+
+#mvp-nav-bot-wrap .mvp-fly-but-wrap:hover span {
+	background: #a9d300;
+	}
+
+#mvp-nav-bot-wrap span.mvp-nav-search-but:hover {
+	color: #a9d300;
+	}
+
+body,
+.mvp-feat1-feat-text p,
+.mvp-feat2-top-text p,
+.mvp-feat3-main-text p,
+.mvp-feat3-sub-text p,
+#searchform input,
+.mvp-author-info-text,
+span.mvp-post-excerpt,
+.mvp-nav-menu ul li ul.sub-menu li a,
+nav.mvp-fly-nav-menu ul li a,
+.mvp-ad-label,
+span.mvp-feat-caption,
+.mvp-post-tags a,
+.mvp-post-tags a:visited,
+span.mvp-author-box-name a,
+#mvp-author-box-text p,
+.mvp-post-gallery-text p,
+ul.mvp-soc-mob-list li span,
+#comments,
+h3#reply-title,
+h2.comments,
+#mvp-foot-copy p,
+span.mvp-fly-soc-head,
+.mvp-post-tags-header,
+span.mvp-prev-next-label,
+span.mvp-post-add-link-but,
+#mvp-comments-button a,
+#mvp-comments-button span.mvp-comment-but-text,
+.woocommerce ul.product_list_widget span.product-title,
+.woocommerce ul.product_list_widget li a,
+.woocommerce #reviews #comments ol.commentlist li .comment-text p.meta,
+.woocommerce div.product p.price,
+.woocommerce div.product p.price ins,
+.woocommerce div.product p.price del,
+.woocommerce ul.products li.product .price del,
+.woocommerce ul.products li.product .price ins,
+.woocommerce ul.products li.product .price,
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.woocommerce .widget_price_filter .price_slider_amount .button,
+.woocommerce span.onsale,
+.woocommerce-review-link,
+#woo-content p.woocommerce-result-count,
+.woocommerce div.product .woocommerce-tabs ul.tabs li a,
+a.mvp-inf-more-but,
+span.mvp-cont-read-but,
+span.mvp-cd-cat,
+span.mvp-cd-date,
+.mvp-feat4-main-text p,
+span.mvp-woo-cart-num,
+span.mvp-widget-home-title2,
+.wp-caption,
+#mvp-content-main p.wp-caption-text,
+.gallery-caption,
+.mvp-post-add-main p.wp-caption-text,
+#bbpress-forums,
+#bbpress-forums p,
+.protected-post-form input,
+#mvp-feat6-text p {
+	font-family: 'Lato', sans-serif;
+	font-display: swap;
+	}
+
+.mvp-blog-story-text p,
+span.mvp-author-page-desc,
+#mvp-404 p,
+.mvp-widget-feat1-bot-text p,
+.mvp-widget-feat2-left-text p,
+.mvp-flex-story-text p,
+.mvp-search-text p,
+#mvp-content-main p,
+.mvp-post-add-main p,
+#mvp-content-main ul li,
+#mvp-content-main ol li,
+.rwp-summary,
+.rwp-u-review__comment,
+.mvp-feat5-mid-main-text p,
+.mvp-feat5-small-main-text p,
+#mvp-content-main .wp-block-button__link,
+.wp-block-audio figcaption,
+.wp-block-video figcaption,
+.wp-block-embed figcaption,
+.wp-block-verse pre,
+pre.wp-block-verse {
+	font-family: 'PT Serif', sans-serif;
+	font-display: swap;
+	}
+
+.mvp-nav-menu ul li a,
+#mvp-foot-menu ul li a {
+	font-family: 'Montserrat', sans-serif;
+	font-display: swap;
+	}
+
+
+.mvp-feat1-sub-text h2,
+.mvp-feat1-pop-text h2,
+.mvp-feat1-list-text h2,
+.mvp-widget-feat1-top-text h2,
+.mvp-widget-feat1-bot-text h2,
+.mvp-widget-dark-feat-text h2,
+.mvp-widget-dark-sub-text h2,
+.mvp-widget-feat2-left-text h2,
+.mvp-widget-feat2-right-text h2,
+.mvp-blog-story-text h2,
+.mvp-flex-story-text h2,
+.mvp-vid-wide-more-text p,
+.mvp-prev-next-text p,
+.mvp-related-text,
+.mvp-post-more-text p,
+h2.mvp-authors-latest a,
+.mvp-feat2-bot-text h2,
+.mvp-feat3-sub-text h2,
+.mvp-feat3-main-text h2,
+.mvp-feat4-main-text h2,
+.mvp-feat5-text h2,
+.mvp-feat5-mid-main-text h2,
+.mvp-feat5-small-main-text h2,
+.mvp-feat5-mid-sub-text h2,
+#mvp-feat6-text h2,
+.alp-related-posts-wrapper .alp-related-post .post-title {
+	font-family: 'Work Sans', sans-serif;
+	font-display: swap;
+	}
+
+.mvp-feat2-top-text h2,
+.mvp-feat1-feat-text h2,
+h1.mvp-post-title,
+h1.mvp-post-title-wide,
+.mvp-drop-nav-title h4,
+#mvp-content-main blockquote p,
+.mvp-post-add-main blockquote p,
+#mvp-content-main p.has-large-font-size,
+#mvp-404 h1,
+#woo-content h1.page-title,
+.woocommerce div.product .product_title,
+.woocommerce ul.products li.product h3,
+.alp-related-posts .current .post-title {
+	font-family: 'Oswald', sans-serif;
+	font-display: swap;
+	}
+
+span.mvp-feat1-pop-head,
+.mvp-feat1-pop-text:before,
+span.mvp-feat1-list-but,
+span.mvp-widget-home-title,
+.mvp-widget-feat2-side-more,
+span.mvp-post-cat,
+span.mvp-page-head,
+h1.mvp-author-top-head,
+.mvp-authors-name,
+#mvp-content-main h1,
+#mvp-content-main h2,
+#mvp-content-main h3,
+#mvp-content-main h4,
+#mvp-content-main h5,
+#mvp-content-main h6,
+.woocommerce .related h2,
+.woocommerce div.product .woocommerce-tabs .panel h2,
+.woocommerce div.product .product_title,
+.mvp-feat5-side-list .mvp-feat1-list-img:after {
+	font-family: 'Work Sans', sans-serif;
+	font-display: swap;
+	}
+
+	
+
+	#mvp-main-body-wrap {
+		padding-top: 20px;
+		}
+	#mvp-feat2-wrap,
+	#mvp-feat4-wrap,
+	#mvp-post-feat-img-wide,
+	#mvp-vid-wide-wrap {
+		margin-top: -20px;
+		}
+	@media screen and (max-width: 479px) {
+		#mvp-main-body-wrap {
+			padding-top: 15px;
+			}
+		#mvp-feat2-wrap,
+		#mvp-feat4-wrap,
+		#mvp-post-feat-img-wide,
+		#mvp-vid-wide-wrap {
+			margin-top: -15px;
+			}
+		}
+		
+
+	.alp-advert {
+		display: none;
+	}
+	.alp-related-posts-wrapper .alp-related-posts .current {
+		margin: 0 0 10px;
+	}
+		
+</style>
+<link rel='stylesheet' id='mvp-reset-css' href='https://www.teslarati.com/wp-content/themes/zox-news/css/reset.css?ver=6.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href='https://www.teslarati.com/wp-content/themes/zox-news/font-awesome/css/all.css?ver=6.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mvp-fonts-css' href='//fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C700%2C900%7COswald%3A400%2C700%7CAdvent+Pro%3A700%7COpen+Sans%3A700%7CAnton%3A400Work+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7COswald%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CWork+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CLato%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CPT+Serif%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CMontserrat%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%26subset%3Dlatin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%26display%3Dswap' type='text/css' media='all' />
+<link rel='stylesheet' id='mvp-media-queries-css' href='https://www.teslarati.com/wp-content/themes/zox-news/css/media-queries.css?ver=6.7.2' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.teslarati.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.teslarati.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://www.teslarati.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.teslarati.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.2" />
+<link rel="icon" href="https://www.teslarati.com/wp-content/uploads/2015/10/cropped-Teslarati-iOS-White-Leaf-Icon-512x512-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.teslarati.com/wp-content/uploads/2015/10/cropped-Teslarati-iOS-White-Leaf-Icon-512x512-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.teslarati.com/wp-content/uploads/2015/10/cropped-Teslarati-iOS-White-Leaf-Icon-512x512-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.teslarati.com/wp-content/uploads/2015/10/cropped-Teslarati-iOS-White-Leaf-Icon-512x512-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			li.mvp-post-soc-pin { display:none;}		</style>
+		<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="error404 wp-embed-responsive">
+	<div id="mvp-fly-wrap">
+	<div id="mvp-fly-menu-top" class="left relative">
+		<div class="mvp-fly-top-out left relative">
+			<div class="mvp-fly-top-in">
+				<div id="mvp-fly-logo" class="left relative">
+											<a href="https://www.teslarati.com/"><img src="https://www.teslarati.com/wp-content/uploads/2025/03/Teslarati-Logo-white-transparent-170.png" alt="TESLARATI" data-rjs="2" /></a>
+									</div><!--mvp-fly-logo-->
+			</div><!--mvp-fly-top-in-->
+			<div class="mvp-fly-but-wrap mvp-fly-but-menu mvp-fly-but-click">
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div><!--mvp-fly-but-wrap-->
+		</div><!--mvp-fly-top-out-->
+	</div><!--mvp-fly-menu-top-->
+	<div id="mvp-fly-menu-wrap">
+		<nav class="mvp-fly-nav-menu left relative">
+			<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-22341" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22341"><a href="https://www.teslarati.com/category/news/">NEWS</a></li>
+<li id="menu-item-283655" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-283655"><a href="https://www.teslarati.com/category/tesla/">Tesla</a></li>
+<li id="menu-item-62917" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62917"><a href="https://www.teslarati.com/category/spacex/">SPACEX</a></li>
+<li id="menu-item-283313" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-283313"><a href="https://www.teslarati.com/category/elon-musk/">Elon Musk</a></li>
+<li id="menu-item-73073" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73073"><a href="https://shop.teslarati.com/">Shop</a></li>
+</ul></div>		</nav>
+	</div><!--mvp-fly-menu-wrap-->
+	<div id="mvp-fly-soc-wrap">
+		<span class="mvp-fly-soc-head">Connect with us</span>
+		<ul class="mvp-fly-soc-list left relative">
+							<li><a href="https://www.facebook.com/Teslarati/" target="_blank" class="fab fa-facebook-f"></a></li>
+										<li><a href="https://twitter.com/teslarati" target="_blank" class="fa-brands fa-x-twitter"></a></li>
+										<li><a href="https://www.pinterest.com/teslarati/" target="_blank" class="fab fa-pinterest-p"></a></li>
+										<li><a href="https://www.instagram.com/teslarati/" target="_blank" class="fab fa-instagram"></a></li>
+										<li><a href="https://www.tiktok.com/@teslarati" target="_blank" class="fab fa-tiktok"></a></li>
+										<li><a href="https://www.youtube.com/channel/UCgY_B6vi2610bBkXFwCxcTg" target="_blank" class="fab fa-youtube"></a></li>
+										<li><a href="https://www.linkedin.com/company/teslaratimedia" target="_blank" class="fab fa-linkedin"></a></li>
+								</ul>
+	</div><!--mvp-fly-soc-wrap-->
+</div><!--mvp-fly-wrap-->	<div id="mvp-site" class="left relative">
+		<div id="mvp-search-wrap">
+			<div id="mvp-search-box">
+				<form method="get" id="searchform" action="https://www.teslarati.com/">
+	<input type="text" name="s" id="s" value="Search" onfocus='if (this.value == "Search") { this.value = ""; }' onblur='if (this.value == "") { this.value = "Search"; }' />
+	<input type="hidden" id="searchsubmit" value="Search" />
+</form>			</div><!--mvp-search-box-->
+			<div class="mvp-search-but-wrap mvp-search-click">
+				<span></span>
+				<span></span>
+			</div><!--mvp-search-but-wrap-->
+		</div><!--mvp-search-wrap-->
+				<div id="mvp-site-wall" class="left relative">
+						<div id="mvp-site-main" class="left relative">
+			<header id="mvp-main-head-wrap" class="left relative">
+									<nav id="mvp-main-nav-wrap" class="left relative">
+						<div id="mvp-main-nav-small" class="left relative">
+							<div id="mvp-main-nav-small-cont" class="left">
+								<div class="mvp-main-box">
+									<div id="mvp-nav-small-wrap">
+										<div class="mvp-nav-small-right-out left">
+											<div class="mvp-nav-small-right-in">
+												<div class="mvp-nav-small-cont left">
+													<div class="mvp-nav-small-left-out right">
+														<div id="mvp-nav-small-left" class="left relative">
+															<div class="mvp-fly-but-wrap mvp-fly-but-click left relative">
+																<span></span>
+																<span></span>
+																<span></span>
+																<span></span>
+															</div><!--mvp-fly-but-wrap-->
+														</div><!--mvp-nav-small-left-->
+														<div class="mvp-nav-small-left-in">
+															<div class="mvp-nav-small-mid left">
+																<div class="mvp-nav-small-logo left relative">
+																																			<a href="https://www.teslarati.com/"><img src="https://www.teslarati.com/wp-content/uploads/2025/03/Teslarati-Logo-white-transparent-170.png" alt="TESLARATI" data-rjs="2" /></a>
+																																																				<h2 class="mvp-logo-title">TESLARATI</h2>
+																																	</div><!--mvp-nav-small-logo-->
+																<div class="mvp-nav-small-mid-right left">
+																																		<div class="mvp-nav-menu left">
+																		<div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22341 mvp-mega-dropdown"><a href="https://www.teslarati.com/category/news/">NEWS</a><div class="mvp-mega-dropdown"><div class="mvp-main-box"><ul class="mvp-mega-list"><li><a href="https://www.teslarati.com/tesla-new-york-store-ban-legislation/"><div class="mvp-mega-img"><img width="300" height="180" src="https://www.teslarati.com/wp-content/uploads/2017/04/tesla-logo-new-york-store-300x180.jpg" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="tesla" decoding="async" fetchpriority="high" srcset="https://www.teslarati.com/wp-content/uploads/2017/04/tesla-logo-new-york-store-300x180.jpg 300w, https://www.teslarati.com/wp-content/uploads/2017/04/tesla-logo-new-york-store-1000x600.jpg 1000w, https://www.teslarati.com/wp-content/uploads/2017/04/tesla-logo-new-york-store-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div><p>Tesla could face New York store ban under this legislation</p></a></li><li><a href="https://www.teslarati.com/musk-xai-acquired-x-stock-deal/"><div class="mvp-mega-img"><img width="300" height="180" src="https://www.teslarati.com/wp-content/uploads/2023/08/X-logo-sf-hq-e1693477185267-300x180.jpeg" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" decoding="async" srcset="https://www.teslarati.com/wp-content/uploads/2023/08/X-logo-sf-hq-e1693477185267-300x180.jpeg 300w, https://www.teslarati.com/wp-content/uploads/2023/08/X-logo-sf-hq-e1693477185267-450x270.jpeg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div><p>Musk says xAI has acquired X in $33 billion stock deal</p></a></li><li><a href="https://www.teslarati.com/opinion-tesla-vandalism-lawsuit-should-be-the-first-of-many/"><div class="mvp-mega-img"><img width="300" height="180" src="https://www.teslarati.com/wp-content/uploads/2025/02/tesla-cybertruck-vandalized-loveland-co-300x180.jpg" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" decoding="async" srcset="https://www.teslarati.com/wp-content/uploads/2025/02/tesla-cybertruck-vandalized-loveland-co-300x180.jpg 300w, https://www.teslarati.com/wp-content/uploads/2025/02/tesla-cybertruck-vandalized-loveland-co-1000x600.jpg 1000w, https://www.teslarati.com/wp-content/uploads/2025/02/tesla-cybertruck-vandalized-loveland-co-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div><p>OPINION: Tesla Vandalism lawsuit should be the first of many</p></a></li><li><a href="https://www.teslarati.com/tesla-best-rated-car-brand-uk-beats-toyota-reliability-survey/"><div class="mvp-mega-img"><img width="400" height="240" src="https://www.teslarati.com/wp-content/uploads/2025/03/new-model-y-tesla-logo-400x240.jpg" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" decoding="async" srcset="https://www.teslarati.com/wp-content/uploads/2025/03/new-model-y-tesla-logo-400x240.jpg 400w, https://www.teslarati.com/wp-content/uploads/2025/03/new-model-y-tesla-logo-1000x600.jpg 1000w, https://www.teslarati.com/wp-content/uploads/2025/03/new-model-y-tesla-logo-590x354.jpg 590w" sizes="(max-width: 400px) 100vw, 400px" /></div><p>Tesla best-rated car brand in UK, beats Toyota in reliability: survey</p></a></li><li><a href="https://www.teslarati.com/tesla-model-y-rwd-110-custom-singapore/"><div class="mvp-mega-img"><img width="400" height="240" src="https://www.teslarati.com/wp-content/uploads/2025/03/Tesla-Unveils-Model-Y-RWD-110-customized-for-Singapore-400x240.jpg" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="tesla-model-y-rwd-110-custom-singapore" decoding="async" srcset="https://www.teslarati.com/wp-content/uploads/2025/03/Tesla-Unveils-Model-Y-RWD-110-customized-for-Singapore-400x240.jpg 400w, https://www.teslarati.com/wp-content/uploads/2025/03/Tesla-Unveils-Model-Y-RWD-110-customized-for-Singapore-1000x600.jpg 1000w, https://www.teslarati.com/wp-content/uploads/2025/03/Tesla-Unveils-Model-Y-RWD-110-customized-for-Singapore-590x354.jpg 590w" sizes="(max-width: 400px) 100vw, 400px" /></div><p>Tesla Unveils Model Y RWD 110 customized for Singapore</p></a></li></ul></div></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-283655 mvp-mega-dropdown"><a href="https://www.teslarati.com/category/tesla/">Tesla</a><div class="mvp-mega-dropdown"><div class="mvp-main-box"><ul class="mvp-mega-list"><li><a href="https://www.teslarati.com/tesla-new-york-store-ban-legislation/"><div class="mvp-mega-img"><img width="300" height="180" src="https://www.teslarati.com/wp-content/uploads/2017/04/tesla-logo-new-york-store-300x180.jpg" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="tesla" decoding="async" srcset="https://www.teslarati.com/wp-content/uploads/2017/04/tesla-logo-new-york-store-300x180.jpg 300w, https://www.teslarati.com/wp-content/uploads/2017/04/tesla-logo-new-york-store-1000x600.jpg 1000w, https://www.teslarati.com/wp-content/uploads/2017/04/tesla-logo-new-york-store-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div><p>Tesla could face New York store ban under this legislation</p></a></li><li><a href="https://www.teslarati.com/opinion-tesla-vandalism-lawsuit-should-be-the-first-of-many/"><div class="mvp-mega-img"><img width="300" height="180" src="https://www.teslarati.com/wp-content/uploads/2025/02/tesla-cybertruck-vandalized-loveland-co-300x180.jpg" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" decoding="async" srcset="https://www.teslarati.com/wp-content/uploads/2025/02/tesla-cybertruck-vandalized-loveland-co-300x180.jpg 300w, https://www.teslarati.com/wp-content/uploads/2025/02/tesla-cybertruck-vandalized-loveland-co-1000x600.jpg 1000w, https://www.teslarati.com/wp-content/uploads/2025/02/tesla-cybertruck-vandalized-loveland-co-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div><p>OPINION: Tesla Vandalism lawsuit should be the first of many</p></a></li><li><a href="https://www.teslarati.com/tesla-best-rated-car-brand-uk-beats-toyota-reliability-survey/"><div class="mvp-mega-img"><img width="400" height="240" src="https://www.teslarati.com/wp-content/uploads/2025/03/new-model-y-tesla-logo-400x240.jpg" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" decoding="async" srcset="https://www.teslarati.com/wp-content/uploads/2025/03/new-model-y-tesla-logo-400x240.jpg 400w, https://www.teslarati.com/wp-content/uploads/2025/03/new-model-y-tesla-logo-1000x600.jpg 1000w, https://www.teslarati.com/wp-content/uploads/2025/03/new-model-y-tesla-logo-590x354.jpg 590w" sizes="(max-width: 400px) 100vw, 400px" /></div><p>Tesla best-rated car brand in UK, beats Toyota in reliability: survey</p></a></li><li><a href="https://www.teslarati.com/tesla-vandal-las-vegas-arson-arrested/"><div class="mvp-mega-img"><img width="400" height="240" src="https://www.teslarati.com/wp-content/uploads/2025/03/tesla-fire-las-vegas-arson-arrest-400x240.jpg" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" decoding="async" srcset="https://www.teslarati.com/wp-content/uploads/2025/03/tesla-fire-las-vegas-arson-arrest-400x240.jpg 400w, https://www.teslarati.com/wp-content/uploads/2025/03/tesla-fire-las-vegas-arson-arrest-590x354.jpg 590w" sizes="(max-width: 400px) 100vw, 400px" /></div><p>Tesla vandal who lit Las Vegas repair center on fire arrested</p></a></li><li><a href="https://www.teslarati.com/elon-musk-clarifies-trump-tariff-effect-tesla/"><div class="mvp-mega-img"><img width="300" height="180" src="https://www.teslarati.com/wp-content/uploads/2024/06/2048px-20_05_2022_Conectividade_e_Proteção_da_Amazônia_com_Elon_Musk_52090111819-300x180.png" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" decoding="async" srcset="https://www.teslarati.com/wp-content/uploads/2024/06/2048px-20_05_2022_Conectividade_e_Proteção_da_Amazônia_com_Elon_Musk_52090111819-300x180.png 300w, https://www.teslarati.com/wp-content/uploads/2024/06/2048px-20_05_2022_Conectividade_e_Proteção_da_Amazônia_com_Elon_Musk_52090111819-1000x600.png 1000w, https://www.teslarati.com/wp-content/uploads/2024/06/2048px-20_05_2022_Conectividade_e_Proteção_da_Amazônia_com_Elon_Musk_52090111819-450x270.png 450w" sizes="(max-width: 300px) 100vw, 300px" /></div><p>Elon Musk clarifies Trump tariff effect on Tesla: &#8220;The cost impact is not trivial&#8221;</p></a></li></ul></div></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62917 mvp-mega-dropdown"><a href="https://www.teslarati.com/category/spacex/">SPACEX</a><div class="mvp-mega-dropdown"><div class="mvp-main-box"><ul class="mvp-mega-list"><li><a href="https://www.teslarati.com/tesla-china-first-megapack-exports-headed-big-battery-australia/"><div class="mvp-mega-img"><img width="400" height="240" src="https://www.teslarati.com/wp-content/uploads/2025/03/tesla-megafactory-china-megapack-export-1-400x240.jpeg" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" decoding="async" srcset="https://www.teslarati.com/wp-content/uploads/2025/03/tesla-megafactory-china-megapack-export-1-400x240.jpeg 400w, https://www.teslarati.com/wp-content/uploads/2025/03/tesla-megafactory-china-megapack-export-1-1000x600.jpeg 1000w, https://www.teslarati.com/wp-content/uploads/2025/03/tesla-megafactory-china-megapack-export-1-590x354.jpeg 590w" sizes="(max-width: 400px) 100vw, 400px" /></div><p>Tesla China&#8217;s first Megapack exports are headed for a big battery in Australia</p></a></li><li><a href="https://www.teslarati.com/starlink-vietnam-internet-service/"><div class="mvp-mega-img"><img width="300" height="180" src="https://www.teslarati.com/wp-content/uploads/2024/11/spacex-starlink-6-69-launch-300x180.jpeg" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" decoding="async" srcset="https://www.teslarati.com/wp-content/uploads/2024/11/spacex-starlink-6-69-launch-300x180.jpeg 300w, https://www.teslarati.com/wp-content/uploads/2024/11/spacex-starlink-6-69-launch-1000x600.jpeg 1000w, https://www.teslarati.com/wp-content/uploads/2024/11/spacex-starlink-6-69-launch-450x270.jpeg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div><p>Starlink gets green light to launch internet services in Vietnam</p></a></li><li><a href="https://www.teslarati.com/spacex-starlink-dish-gigabit-speed-vs-europe/"><div class="mvp-mega-img"><img width="400" height="240" src="https://www.teslarati.com/wp-content/uploads/2025/03/Starlink-dish-with-Gigabit-Speeds-leaves-EU-scrambling-to-catch-up-400x240.jpg" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="Spacex-starlink-dish-gigabit-speed-vs-europe" decoding="async" srcset="https://www.teslarati.com/wp-content/uploads/2025/03/Starlink-dish-with-Gigabit-Speeds-leaves-EU-scrambling-to-catch-up-400x240.jpg 400w, https://www.teslarati.com/wp-content/uploads/2025/03/Starlink-dish-with-Gigabit-Speeds-leaves-EU-scrambling-to-catch-up-1000x600.jpg 1000w, https://www.teslarati.com/wp-content/uploads/2025/03/Starlink-dish-with-Gigabit-Speeds-leaves-EU-scrambling-to-catch-up-590x354.jpg 590w" sizes="(max-width: 400px) 100vw, 400px" /></div><p>SpaceX&#8217;s Starlink dish with Gigabit Speeds leaves EU scrambling to catch up</p></a></li><li><a href="https://www.teslarati.com/spacex-rescue-mission-stranded-iss-astronauts-nears-end-when-they-return-home/"><div class="mvp-mega-img"><img width="400" height="240" src="https://www.teslarati.com/wp-content/uploads/2025/03/spacex-nasa-crew-10-iss-400x240.jpeg" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" decoding="async" srcset="https://www.teslarati.com/wp-content/uploads/2025/03/spacex-nasa-crew-10-iss-400x240.jpeg 400w, https://www.teslarati.com/wp-content/uploads/2025/03/spacex-nasa-crew-10-iss-1000x600.jpeg 1000w, https://www.teslarati.com/wp-content/uploads/2025/03/spacex-nasa-crew-10-iss-590x354.jpeg 590w" sizes="(max-width: 400px) 100vw, 400px" /></div><p>SpaceX rescue mission for stranded ISS astronauts nears end &#8212; Here&#8217;s when they&#8217;ll return home</p></a></li><li><a href="https://www.teslarati.com/spacex-readies-to-rescue-astronauts-from-international-space-station/"><div class="mvp-mega-img"><img width="300" height="180" src="https://www.teslarati.com/wp-content/uploads/2024/09/spacex-crew-9-launch-iss-300x180.jpeg" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" decoding="async" srcset="https://www.teslarati.com/wp-content/uploads/2024/09/spacex-crew-9-launch-iss-300x180.jpeg 300w, https://www.teslarati.com/wp-content/uploads/2024/09/spacex-crew-9-launch-iss-1000x600.jpeg 1000w, https://www.teslarati.com/wp-content/uploads/2024/09/spacex-crew-9-launch-iss-450x270.jpeg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div><p>SpaceX readies to rescue astronauts from International Space Station</p></a></li></ul></div></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-283313 mvp-mega-dropdown"><a href="https://www.teslarati.com/category/elon-musk/">Elon Musk</a><div class="mvp-mega-dropdown"><div class="mvp-main-box"><ul class="mvp-mega-list"><li><a href="https://www.teslarati.com/musk-xai-acquired-x-stock-deal/"><div class="mvp-mega-img"><img width="300" height="180" src="https://www.teslarati.com/wp-content/uploads/2023/08/X-logo-sf-hq-e1693477185267-300x180.jpeg" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" decoding="async" srcset="https://www.teslarati.com/wp-content/uploads/2023/08/X-logo-sf-hq-e1693477185267-300x180.jpeg 300w, https://www.teslarati.com/wp-content/uploads/2023/08/X-logo-sf-hq-e1693477185267-450x270.jpeg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div><p>Musk says xAI has acquired X in $33 billion stock deal</p></a></li><li><a href="https://www.teslarati.com/opinion-tesla-vandalism-lawsuit-should-be-the-first-of-many/"><div class="mvp-mega-img"><img width="300" height="180" src="https://www.teslarati.com/wp-content/uploads/2025/02/tesla-cybertruck-vandalized-loveland-co-300x180.jpg" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" decoding="async" srcset="https://www.teslarati.com/wp-content/uploads/2025/02/tesla-cybertruck-vandalized-loveland-co-300x180.jpg 300w, https://www.teslarati.com/wp-content/uploads/2025/02/tesla-cybertruck-vandalized-loveland-co-1000x600.jpg 1000w, https://www.teslarati.com/wp-content/uploads/2025/02/tesla-cybertruck-vandalized-loveland-co-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div><p>OPINION: Tesla Vandalism lawsuit should be the first of many</p></a></li><li><a href="https://www.teslarati.com/tesla-vandal-las-vegas-arson-arrested/"><div class="mvp-mega-img"><img width="400" height="240" src="https://www.teslarati.com/wp-content/uploads/2025/03/tesla-fire-las-vegas-arson-arrest-400x240.jpg" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" decoding="async" srcset="https://www.teslarati.com/wp-content/uploads/2025/03/tesla-fire-las-vegas-arson-arrest-400x240.jpg 400w, https://www.teslarati.com/wp-content/uploads/2025/03/tesla-fire-las-vegas-arson-arrest-590x354.jpg 590w" sizes="(max-width: 400px) 100vw, 400px" /></div><p>Tesla vandal who lit Las Vegas repair center on fire arrested</p></a></li><li><a href="https://www.teslarati.com/elon-musk-clarifies-trump-tariff-effect-tesla/"><div class="mvp-mega-img"><img width="300" height="180" src="https://www.teslarati.com/wp-content/uploads/2024/06/2048px-20_05_2022_Conectividade_e_Proteção_da_Amazônia_com_Elon_Musk_52090111819-300x180.png" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" decoding="async" srcset="https://www.teslarati.com/wp-content/uploads/2024/06/2048px-20_05_2022_Conectividade_e_Proteção_da_Amazônia_com_Elon_Musk_52090111819-300x180.png 300w, https://www.teslarati.com/wp-content/uploads/2024/06/2048px-20_05_2022_Conectividade_e_Proteção_da_Amazônia_com_Elon_Musk_52090111819-1000x600.png 1000w, https://www.teslarati.com/wp-content/uploads/2024/06/2048px-20_05_2022_Conectividade_e_Proteção_da_Amazônia_com_Elon_Musk_52090111819-450x270.png 450w" sizes="(max-width: 300px) 100vw, 300px" /></div><p>Elon Musk clarifies Trump tariff effect on Tesla: &#8220;The cost impact is not trivial&#8221;</p></a></li><li><a href="https://www.teslarati.com/tesla-attack-texarkana/"><div class="mvp-mega-img"><img width="400" height="240" src="https://www.teslarati.com/wp-content/uploads/2025/03/tesla-store-loveland-protests-400x240.jpg" class="attachment-mvp-mid-thumb size-mvp-mid-thumb wp-post-image" alt="" decoding="async" srcset="https://www.teslarati.com/wp-content/uploads/2025/03/tesla-store-loveland-protests-400x240.jpg 400w, https://www.teslarati.com/wp-content/uploads/2025/03/tesla-store-loveland-protests-1000x600.jpg 1000w, https://www.teslarati.com/wp-content/uploads/2025/03/tesla-store-loveland-protests-590x354.jpg 590w" sizes="(max-width: 400px) 100vw, 400px" /></div><p>Tesla vehicles hit by ATV, suspect caught by Sentry Mode</p></a></li></ul></div></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73073"><a href="https://shop.teslarati.com/">Shop</a></li>
+</ul></div>																	</div><!--mvp-nav-menu-->
+																</div><!--mvp-nav-small-mid-right-->
+															</div><!--mvp-nav-small-mid-->
+														</div><!--mvp-nav-small-left-in-->
+													</div><!--mvp-nav-small-left-out-->
+												</div><!--mvp-nav-small-cont-->
+											</div><!--mvp-nav-small-right-in-->
+											<div id="mvp-nav-small-right" class="right relative">
+												<span class="mvp-nav-search-but fa fa-search fa-2 mvp-search-click"></span>
+											</div><!--mvp-nav-small-right-->
+										</div><!--mvp-nav-small-right-out-->
+									</div><!--mvp-nav-small-wrap-->
+								</div><!--mvp-main-box-->
+							</div><!--mvp-main-nav-small-cont-->
+						</div><!--mvp-main-nav-small-->
+					</nav><!--mvp-main-nav-wrap-->
+							</header><!--mvp-main-head-wrap-->
+			<div id="mvp-main-body-wrap" class="left relative"><div id="mvp-article-wrap">
+	<div id="mvp-article-cont" class="left relative">
+		<div class="mvp-main-box">
+			<section id="mvp-404">
+				<h1>Error 404!</h1>
+				<p>The page you requested does not exist or has moved.</p>
+			</section><!--mvp-404-->
+		</div><!--mvp-main-box-->
+	</div><!--mvp-article-cont-->
+</div><!--mvp-article-wrap-->
+			</div><!--mvp-main-body-wrap-->
+			<footer id="mvp-foot-wrap" class="left relative">
+				<div id="mvp-foot-top" class="left relative">
+					<div class="mvp-main-box">
+						<div id="mvp-foot-logo" class="left relative">
+															<a href="https://www.teslarati.com/"><img src="https://www.teslarati.com/wp-content/uploads/2025/03/Teslarati-Logo-white-transparent-170.png" alt="TESLARATI" data-rjs="2" /></a>
+													</div><!--mvp-foot-logo-->
+						<div id="mvp-foot-soc" class="left relative">
+							<ul class="mvp-foot-soc-list left relative">
+																	<li><a href="https://www.facebook.com/Teslarati/" target="_blank" class="fab fa-facebook-f"></a></li>
+																									<li><a href="https://twitter.com/teslarati" target="_blank" class="fa-brands fa-x-twitter"></a></li>
+																									<li><a href="https://www.pinterest.com/teslarati/" target="_blank" class="fab fa-pinterest-p"></a></li>
+																									<li><a href="https://www.instagram.com/teslarati/" target="_blank" class="fab fa-instagram"></a></li>
+																									<li><a href="https://www.tiktok.com/@teslarati" target="_blank" class="fab fa-tiktok"></a></li>
+																									<li><a href="https://www.youtube.com/channel/UCgY_B6vi2610bBkXFwCxcTg" target="_blank" class="fab fa-youtube"></a></li>
+																									<li><a href="https://www.linkedin.com/company/teslaratimedia" target="_blank" class="fab fa-linkedin"></a></li>
+																							</ul>
+						</div><!--mvp-foot-soc-->
+						<div id="mvp-foot-menu-wrap" class="left relative">
+							<div id="mvp-foot-menu" class="left relative">
+								<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-20519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-20519"><a href="http://www.teslarati.com/">Home</a></li>
+<li id="menu-item-817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-817"><a href="https://www.teslarati.com/about-us/">About Us</a></li>
+<li id="menu-item-40901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40901"><a href="https://www.teslarati.com/contactus/">Contact Us</a></li>
+<li id="menu-item-815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-815"><a href="https://www.teslarati.com/advertise/">Advertise With Us</a></li>
+<li id="menu-item-820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-820"><a href="https://www.teslarati.com/terms/">Terms</a></li>
+<li id="menu-item-950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-950"><a rel="privacy-policy" href="https://www.teslarati.com/privacy/">Privacy</a></li>
+</ul></div>							</div><!--mvp-foot-menu-->
+						</div><!--mvp-foot-menu-wrap-->
+					</div><!--mvp-main-box-->
+				</div><!--mvp-foot-top-->
+				<div id="mvp-foot-bot" class="left relative">
+					<div class="mvp-main-box">
+						<div id="mvp-foot-copy" class="left relative">
+							<p>Copyright © TESLARATI. All rights reserved.</p>
+						</div><!--mvp-foot-copy-->
+					</div><!--mvp-main-box-->
+				</div><!--mvp-foot-bot-->
+			</footer>
+		</div><!--mvp-site-main-->
+	</div><!--mvp-site-wall-->
+</div><!--mvp-site-->
+<div class="mvp-fly-top back-to-top">
+	<i class="fa fa-angle-up fa-3"></i>
+</div><!--mvp-fly-top-->
+<div class="mvp-fly-fade mvp-fly-but-click">
+</div><!--mvp-fly-fade-->
+		<div data-theiaStickySidebar-sidebarSelector='"#mvp-side-wrap,.mvp-feat1-right-wrap,.mvp-post-soc-wrap,.mvp-flex-side-wrap,.mvp-alp-side"'
+		     data-theiaStickySidebar-options='{"containerSelector":"#post-main-wrap","additionalMarginTop":120,"additionalMarginBottom":20,"updateSidebarHeight":false,"minWidth":1004,"sidebarBehavior":"stick-to-bottom","disableOnResponsiveLayouts":true}'></div>
+		<script type="text/javascript" src="https://www.teslarati.com/wp-content/plugins/theia-sticky-sidebar/js/ResizeSensor.js?ver=1.7.0" id="theia-sticky-sidebar/ResizeSensor.js-js"></script>
+<script type="text/javascript" src="https://www.teslarati.com/wp-content/plugins/theia-sticky-sidebar/js/theia-sticky-sidebar.js?ver=1.7.0" id="theia-sticky-sidebar/theia-sticky-sidebar.js-js"></script>
+<script type="text/javascript" src="https://www.teslarati.com/wp-content/plugins/theia-sticky-sidebar/js/main.js?ver=1.7.0" id="theia-sticky-sidebar/main.js-js"></script>
+<script type="text/javascript" src="https://www.teslarati.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://www.teslarati.com/wp-content/plugins/zox-alp//scripts/jquery.sticky-kit.min.js?ver=6.7.2" id="jquery-sticky-kit-js"></script>
+<script type="text/javascript" src="https://www.teslarati.com/wp-content/plugins/zox-alp//scripts/jquery.waypoints.min.js?ver=6.7.2" id="jquery-waypoints-js"></script>
+<script type="text/javascript" src="https://www.teslarati.com/wp-content/themes/zox-news/js/mvpcustom.js?ver=6.7.2" id="mvp-custom-js"></script>
+<script type="text/javascript" id="mvp-custom-js-after">
+/* <![CDATA[ */
+
+	jQuery(document).ready(function($) {
+	var leaderHeight = $("#mvp-leader-wrap").outerHeight();
+	var navHeight = $("#mvp-main-head-wrap").outerHeight();
+	var headerHeight = navHeight + leaderHeight;
+	var previousScroll = 0;
+	$(window).scroll(function(event){
+			var scroll = $(this).scrollTop();
+			if ( typeof leaderHeight !== "undefined" ) {
+				if ($(window).scrollTop() > headerHeight){
+					$("#mvp-main-nav-small").addClass("mvp-nav-small-fixed");
+					$("#mvp-main-body-wrap").css("margin-top", navHeight );
+				} else {
+					$("#mvp-main-nav-small").removeClass("mvp-nav-small-fixed");
+					$("#mvp-main-body-wrap").css("margin-top","0");
+				}
+				if ($(window).scrollTop() > headerHeight + 50){
+					$("#mvp-main-nav-small").addClass("mvp-fixed");
+					$("#mvp-main-nav-small").addClass("mvp-fixed-shadow");
+					$(".mvp-fly-top").addClass("mvp-to-top");
+				} else {
+					$("#mvp-main-nav-small").removeClass("mvp-fixed");
+					$("#mvp-main-nav-small").removeClass("mvp-fixed-shadow");
+					$(".mvp-fly-top").removeClass("mvp-to-top");
+				}
+			} else {
+				if ($(window).scrollTop() > navHeight){
+					$("#mvp-main-nav-small").addClass("mvp-nav-small-fixed");
+					$("#mvp-main-body-wrap").css("margin-top", navHeight );
+				} else {
+					$("#mvp-main-nav-small").removeClass("mvp-nav-small-fixed");
+					$("#mvp-main-body-wrap").css("margin-top","0");
+				}
+				if ($(window).scrollTop() > navHeight + 50){
+					$("#mvp-main-nav-small").addClass("mvp-fixed");
+					$("#mvp-main-nav-small").addClass("mvp-fixed-shadow");
+					$(".mvp-fly-top").addClass("mvp-to-top");
+				} else {
+					$("#mvp-main-nav-small").removeClass("mvp-fixed");
+					$("#mvp-main-nav-small").removeClass("mvp-fixed-shadow");
+					$(".mvp-fly-top").removeClass("mvp-to-top");
+				}
+			}
+			previousScroll = scroll;
+	});
+	});
+	
+
+	jQuery(document).ready(function($) {
+	// Mobile Social Buttons More
+ 		$(".mvp-soc-mob-right").on("click", function(){
+			$("#mvp-soc-mob-wrap").toggleClass("mvp-soc-mob-more");
+  		});
+	});
+  	
+
+	jQuery(document).ready(function($) {
+	$(".menu-item-has-children a").click(function(event){
+	  event.stopPropagation();
+
+  	});
+
+	$(".menu-item-has-children").click(function(){
+    	  $(this).addClass("toggled");
+    	  if($(".menu-item-has-children").hasClass("toggled"))
+    	  {
+    	  $(this).children("ul").toggle();
+	  $(".mvp-fly-nav-menu").getNiceScroll().resize();
+	  }
+	  $(this).toggleClass("tog-minus");
+    	  return false;
+  	});
+
+	// Main Menu Scroll
+	  $(".mvp-fly-nav-menu").niceScroll({cursorcolor:"#888",cursorwidth: 7,cursorborder: 0,zindex:999999});
+	});
+	
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.teslarati.com/wp-content/themes/zox-news/js/scripts.js?ver=6.7.2" id="zoxnews-js"></script>
+<script type="text/javascript" src="https://www.teslarati.com/wp-content/themes/zox-news/js/retina.js?ver=6.7.2" id="retina-js"></script>
+</body>
+</html>
